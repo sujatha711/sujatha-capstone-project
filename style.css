@@ -1,0 +1,204 @@
+nav{
+    background-color:rgba(224, 33, 33, 0.365);
+    color: rgb(97, 22, 116);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+}
+
+body{
+
+    margin: 0;
+    background: rgb(255, 255, 255);
+}
+li:hover{color: rgb(193, 25, 25);
+
+    
+}
+     
+
+
+li,ul{
+    display: inline;
+    
+}
+li{
+    padding: 5px;
+    margin-left: 200px;
+    font-size: large;
+    
+
+   
+}   
+a{text-decoration: none
+}
+
+div{
+    height: 50px;
+    width: 40%;
+    border: solid rgb(14, 14, 13);
+    border-right: 1px;
+}
+
+.box1{
+    height: 300px;
+    width: 100%;
+
+    background-image: url(im\ 6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size:medium;
+    text-align:left;
+    padding-top: 300px;
+    color: rgba(255, 255, 255, 0.945);
+    padding-left:  12px;
+    font-size: 25px; 
+    padding-right: 25%;
+}
+
+    .box2{
+        height: 200px;
+        width: 100%;
+    
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url(abstract-marble-texture-black-white-grey-background-handmade-technique.jpg);
+        font-size:largem;
+        color: rgb(43, 43, 43);
+        padding-top: 30px;
+        text-align:center;
+        font-family:Arial;
+        
+
+    }
+
+    .box3{
+        height: 500px;
+        width: 100%;
+        background-color: rgb(0, 0, 0);
+        background-size: cover;
+        font-size:large;
+        background-repeat: no-repeat;
+        text-align: center;
+        padding-top: 0px;
+        padding-bottom: 100px;
+        background-image: url(abstract-marble-texture-black-white-grey-background-handmade-technique.jpg);
+    }
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.Flex-container{
+    
+    width: 100%;
+    border: 0%;
+    margin-top:10px;
+    
+    border: rgb(255, 255, 255);
+    display: flex;
+    float: row;
+    justify-content:space-evenly;
+    font-display:center;
+    
+    
+
+
+}
+
+
+div{height: 400px;
+    width: 100%;
+    border: solid rgb(23, 22, 22);
+    
+
+}
+
+
+#flex1{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#flex2{
+    background-image: url(pexels-lum3n-44775-399161.jpg);
+    position: relative;
+}
+
+#flex3{
+    background-image: url();
+    position: relative;
+}
+#flexsmall1{
+    position: absolute;
+    margin-right: 810px;
+    width: 380px;
+    height: 380px;
+    margin-top: 10px;
+    background-image:url(Screenshot\ 2024-12-02\ photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+#flexsmall2{
+    position: absolute;
+    margin-right: 2px;
+    width: 380px;
+    height: 380px;
+    margin-top: 8px;
+    background-image: url(Screenshot\ 2024-12-01\ school.png);
+    background-repeat: repeat;
+    background-position:center;
+    background-size: cover;
+    
+    
+}
+
+#flexsmall3{
+    position: absolute;
+    margin-left: 810px;
+    width: 380px;
+    height: 380px;
+    margin-top: 10px;
+background-image: url(html\ project.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+    
+}
+
+#one{
+    font-size: 1.5rem;
+
+}
+.contact input,
+.contact textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+    max-width: 800px;
+    border: 1px solid #ffffff;
+    border-radius: 0px;
+    background-color: rgba(7, 236, 236, 0.194);
+}
+
+button{font-size: medium;}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+
+
+
+
+
+
+    
